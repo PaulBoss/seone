@@ -1,6 +1,6 @@
 # Test program for the SE-One cartridge
 
-This is a small MSX-DOS utility for using the SE-One cartrigde.
+This is a small MSX-DOS utility for using the SE-One cartridge.
 
 Usage: seone command
 
